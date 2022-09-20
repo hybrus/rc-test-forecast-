@@ -10,7 +10,7 @@ Library Used :
   • react-redux 7.1.3
   • react-router-dom 5.2.0
   • react-select 5.4.0
-  • dayjs ^1.11.5
+  • dayjs 1.11.5
  
 
 Instruction
