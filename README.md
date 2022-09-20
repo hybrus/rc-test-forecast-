@@ -3,14 +3,14 @@ RC TEST FORECAST with Accuweather API
 Software Required
   Nodejs with NPM
 
-Library Used
-  "react": "^17.0.1",
-  "react-bootstrap": "^2.5.0",
-  "react-redux": "^7.1.3",
-  "react-router-dom": "^5.2.0",
-  "react-select": "^5.4.0"
-  "bootstrap": "^5.2.1",
-  "dayjs": "^1.11.5",
+Library Used :
+  "react": "^17.0.1", 
+  "react-bootstrap": "^2.5.0", 
+  "react-redux": "^7.1.3", 
+  "react-router-dom": "^5.2.0", 
+  "react-select": "^5.4.0", 
+  "bootstrap": "^5.2.1", 
+  "dayjs": "^1.11.5"
  
 
 Instruction
