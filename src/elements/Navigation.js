@@ -26,7 +26,8 @@ export const Navigation = () => {
                 let data = await response.json();
 
                 let options = data.map(obj => {
-                    return { label: obj.EnglishName, value: obj }
+                    console.log(obj);
+                    return { label: `${obj.EnglishName}, ${obj?.Country?.ID}`, value: obj }
                 })
 
                 resolve(options)
