@@ -24,6 +24,4 @@ Instruction:
 About the APP: 
   Initially, the app will fetch the client details from `https://geolocation-db.com/json` to get the client IP.
   Then it will use that IP to get the necessary information to Accuweather API, I also added the city searching functionality.
-  
-  Duration: 
-   3hrs & 30mins
+
